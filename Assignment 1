@@ -1,0 +1,2 @@
+# CSCI-271-Fall-2026
+Hello! I'm Gisselle and this is my practice repo for this course. This repo contains hello.cpp, a program that asks for the user's name and greets them by name. To run it, compile with g++ -o hello hello.cpp then run with ./hello
