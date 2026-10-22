@@ -9,3 +9,6 @@ This repo contains hello.cpp, a program that asks for the user's name and greets
 - Assignment 3: temp_check, eligibility.cpp, flowchart2.png
 - Assignment 4: mult_table.cpp, menu_validate.cpp
 - Assignment 5: score_stats.cpp, search_count.cpp, array_utils.cpp
+
+## AI Assistance
+I used Claude to help me understand errors and debug my code, and to explain to me concepts when I was confused. I wrote the programs myself. 
